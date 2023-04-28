@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "final-form": "^4.20.9",
+    "react-final-form": "^6.5.9",
+    "react-scripts": "5.0.1",
+    "redux-form": "^8.3.10",
+    "redux-thunk": "^2.4.2"
+  }
+}

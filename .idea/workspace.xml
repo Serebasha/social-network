@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="653c5ecd-8022-4020-9e1d-c5d4e9e2f5d0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/01-first-project/demo-samurai" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KjCO16n4SDVI2qXBXL2KFdwtOu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;19.0.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.14.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Projects/01-first-project/react-kabzda-1/src/hoc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;E:/Projects/01-first-project/react-kabzda-1/node_modules/react-scripts&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.26&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\01-first-project\react-kabzda-1\src\hoc" />
+      <recent name="E:\Projects\01-first-project\react-kabzda-1\src\components\common\Paginator" />
+      <recent name="E:\Projects\01-first-project\react-kabzda-1\src\components\Profile\ProfileInfo" />
+      <recent name="E:\Projects\01-first-project\react-kabzda-1\src\components\Users" />
+      <recent name="E:\Projects\01-first-project\react-kabzda-1\src\redux" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="ProfileStatus component" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/01-first-project/react-kabzda-1/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/01-first-project/react-kabzda-1" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/01-first-project/react-kabzda-1/src/components/Profile/ProfileInfo/ProfileStatus.test.jsx" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component.callback should be called" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/01-first-project/react-kabzda-1/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/01-first-project/react-kabzda-1" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/01-first-project/react-kabzda-1/src/components/Profile/ProfileInfo/ProfileStatus.test.jsx" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+        <test-name value="callback should be called" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="build (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/01-first-project/react-kabzda-1/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/01-first-project/react-kabzda-1/package.json" />
+      <command value="build" />
+      <arguments value="&quot;react-scripts build&quot;" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/01-first-project/react-kabzda-1/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/01-first-project/react-kabzda-1/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/01-first-project/react-kabzda-1/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="predeploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.ProfileStatus component" />
+      <item itemvalue="Jest.ProfileStatus component.callback should be called" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.npm start" />
+      <item itemvalue="npm.predeploy" />
+      <item itemvalue="npm.build (1)" />
+      <item itemvalue="npm.deploy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.predeploy" />
+        <item itemvalue="npm.build (1)" />
+        <item itemvalue="Jest.ProfileStatus component.callback should be called" />
+        <item itemvalue="Jest.ProfileStatus component" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="653c5ecd-8022-4020-9e1d-c5d4e9e2f5d0" name="Changes" comment="" />
+      <created>1674478595659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674478595659</updated>
+      <workItem from="1674478606084" duration="2131000" />
+      <workItem from="1675066459349" duration="7234000" />
+      <workItem from="1675089182698" duration="6468000" />
+      <workItem from="1676061799233" duration="1229000" />
+      <workItem from="1676307051343" duration="13258000" />
+      <workItem from="1676629844892" duration="16071000" />
+      <workItem from="1677059722516" duration="1392000" />
+      <workItem from="1677061845798" duration="1335000" />
+      <workItem from="1677063600732" duration="835000" />
+      <workItem from="1677142275058" duration="3839000" />
+      <workItem from="1677489557252" duration="21369000" />
+      <workItem from="1677755378820" duration="7583000" />
+      <workItem from="1678182768377" duration="17769000" />
+      <workItem from="1678704827582" duration="7060000" />
+      <workItem from="1678781421985" duration="8724000" />
+      <workItem from="1678957333364" duration="18934000" />
+      <workItem from="1679933970870" duration="17938000" />
+      <workItem from="1680092072765" duration="32525000" />
+      <workItem from="1680517757180" duration="8451000" />
+      <workItem from="1680598089306" duration="21568000" />
+      <workItem from="1680849717406" duration="5003000" />
+      <workItem from="1681120347909" duration="21692000" />
+      <workItem from="1681288777452" duration="22851000" />
+      <workItem from="1681461678644" duration="34839000" />
+      <workItem from="1681891103510" duration="29345000" />
+      <workItem from="1682334663531" duration="1807000" />
+      <workItem from="1682426577882" duration="9723000" />
+      <workItem from="1682585256093" duration="11645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="startingDirectory" value="E:\Projects\01-first-project\react-kabzda-1" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/01-first-project/react-kabzda-1/src/components/Users/UsersAPIComponent.jsx</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/01-first-project/react-kabzda-1/src/api/api.js</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/01-first-project/react-kabzda-1/src/api/api.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/01-first-project/react-kabzda-1/src/redux/profile-reducer.test.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/01-first-project/react-kabzda-1/src/components/Profile/ProfileInfo/ProfileInfo.jsx</url>
+          <line>43</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/01-first-project/react-kabzda-1/src/components/Profile/ProfileInfo/ProfileInfo.jsx</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
